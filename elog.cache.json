@@ -1,0 +1,38 @@
+{
+  "docs": [
+    {
+      "id": 169787934,
+      "doc_id": "uw4d0mp7fmnr8b89",
+      "updated": 1715775321000,
+      "properties": {
+        "title": "配置过程记录",
+        "date": "2024-05-15 18:53:42",
+        "updated": "2024-05-15 20:15:21"
+      },
+      "catalog": [],
+      "realName": "配置过程记录",
+      "relativePath": "\\配置过程记录.md",
+      "docPath": "./source/_posts"
+    }
+  ],
+  "catalog": [
+    {
+      "uuid": "dUL_cRRe8SoTWBnD",
+      "type": "DOC",
+      "title": "配置过程记录",
+      "url": "uw4d0mp7fmnr8b89",
+      "slug": "uw4d0mp7fmnr8b89",
+      "id": 169787934,
+      "doc_id": 169787934,
+      "level": 0,
+      "depth": 1,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "_serializer": "v2.toc_item"
+    }
+  ]
+}
